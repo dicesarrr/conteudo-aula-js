@@ -36,3 +36,4 @@ switch (opcoes) {
     alert("Informe um valor válido!");
     window.location.reload();
 }
+
