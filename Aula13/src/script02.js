@@ -12,7 +12,6 @@ const times2 = ["São Paulo", "Corinthians", "São Paulo", "São Paulo"];
 
 let posicaoItem2 = times2.lastIndexOf("São Paulo");
 
-console.log(times2);
 console.log(posicaoItem2);
 
 // Utilizando o método includes()
