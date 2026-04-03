@@ -9,7 +9,7 @@ p1.addEventListener("click", () => {
 }, false);
 
 div1.addEventListener("click", () => {
-  alert("Você clicou no elemento vermelho");
+  alert("Você clicou no elemento vermelho.");
 }, false);
 
 p2.addEventListener("click", () => {
